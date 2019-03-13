@@ -8,7 +8,10 @@ Site analytics without creepy tracking, but with emotional intelligence.
 
 Short urls that don't track who's clicking them.
 
-Everything encrypted. Nothing shared with third parties.
+No logins.  No cookies.  No GDPR problems.  Nothing shared with third parties.  
+
+Everything encrypted.
+
 
 Welcome to a friendlier future.
 
