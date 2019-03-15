@@ -1,21 +1,19 @@
 # Inkdots
 
-Newsletters and analytics for users you love.
+Anonymous analytics and url shortening for users you love.  Track pages, not people.
 
-Email newsletters with active, positive consent, and automatic unsubscribing.
+❤️-based.  Know what your visitors _loved_, not just what they saw.
+
+Generate short urls that don't track who's clicking them.
 
 Analytics without creepy tracking, but with the ability to tell you what people really loved.
 
-Short urls that don't track who's clicking them.
+No logins.  No cookies.  No GDPR problems and no silly cookie popups.  
 
-No logins.  No cookies.  No GDPR problems.  Nothing shared with third parties.  
-
-Everything encrypted.
+Everything encrypted, nothing shared with third parties.
 
 Welcome to a friendlier future.
 
 
-Inkdots is web and email, with heart.
-
-    Tech:
+Tech:
     (Can use database or flat files for config.)
