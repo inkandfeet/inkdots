@@ -2,7 +2,7 @@
 
 Anonymous analytics and url shortening for users you love.  Track pages, not people.
 
-❤️-based.  Know what your visitors _loved_, not just what they saw.
+❤️-based feedback baked in.  Know what your visitors _loved_, not just what they saw.
 
 Generate short urls that don't track who's clicking them.
 
